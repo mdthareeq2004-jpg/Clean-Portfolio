@@ -1,4 +1,4 @@
-Clean-Portfolio
+Personal-Portfolio
 
 A modern, responsive, and fully functional Personal Portfolio Website built to showcase my skills, projects, and experience as a Frontend Developer.
 
